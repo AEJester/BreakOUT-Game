@@ -1,2 +1,4 @@
-# PasswordGenerator
-A java password generator
+# BreakOUT Game
+A java Breakout game. Completely Open Source.
+------------
+Have fun!
